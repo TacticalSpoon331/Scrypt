@@ -1,5 +1,5 @@
 # Scrypt
-My attempt at a one-way hashing algorithm
+My attempt at an encryption algorithm
 
 Yeah idek with this one
 
